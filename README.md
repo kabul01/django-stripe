@@ -33,7 +33,11 @@ ____________________________________________________________________________
 
 
 
-(https://github.com/kabul01/photo/blob/761a4172a782716b1e63f90f58654b66dd98df6f/1.png)
+![Image alt](https://github.com/kabul01/photo/blob/761a4172a782716b1e63f90f58654b66dd98df6f/1.png)
+### Then
+![Image alt](https://github.com/kabul01/photo/blob/761a4172a782716b1e63f90f58654b66dd98df6f/2.png)
+![Image alt](https://github.com/kabul01/photo/blob/761a4172a782716b1e63f90f58654b66dd98df6f/3.png)
+
 
 
 
