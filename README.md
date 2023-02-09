@@ -34,7 +34,7 @@ ____________________________________________________________________________
 
 
 ![Image alt]
-(https://github.com/{kabul01}/{django-stripe}/raw/{main}/{photo}/Screenshot from 2023-02-10 01-21-33.png)
+(https://github.com/kabul01/photo/raw/main/Screenshot from 2023-02-10 01-21-33.png)
 
 
 
