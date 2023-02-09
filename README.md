@@ -34,7 +34,7 @@ ____________________________________________________________________________
 
 
 ![Image alt]
-(https://github.com/kabul01/photo/raw/main/Screenshot from 2023-02-10 01-21-33.png)
+(https://github.com/kabul01/photo/blob/761a4172a782716b1e63f90f58654b66dd98df6f/1.png)
 
 
 
